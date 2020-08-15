@@ -6,7 +6,7 @@
   <!-- Your ROM version. MUST be incrementally larger than previous versions -->
   <!-- Do NOT use letters in your version number. Integers only -->
   <!-- Previous version will be read from the build.prop -->
-  <VersionNumber type="integer">20200820</VersionNumber>
+  <VersionNumber type="integer">20200813</VersionNumber>
   <!-- Linking to your files -->
     <!-- <DirectUrl><![CDATA[http://www.example.com?file=file.zip?somethingelse&anotherthing]]></DirectUrl> -->
     <!-- Use the above format if your URL has special characters in then, like an (&) ampersand -->
@@ -39,8 +39,8 @@
   * Go to "Execute your changes" and press "Download".
   * Press "Execute" after download is done and your unit will restart, execute your changes.
   * You are good to go.</Changelog>
-<AddonCount>3</AddonCount>
-<AddonsURL>
-https://raw.githubusercontent.com/berci07/radioota/master/addons.xml
+  <AddonCount>1</AddonCount>	
+<AddonsURL>	
+https://raw.githubusercontent.com/berci07/radioota/master/addons.xml	
 </AddonsURL>
 </ROM>
