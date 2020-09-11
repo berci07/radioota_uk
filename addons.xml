@@ -4,11 +4,11 @@
         <addon>
             <id>1</id> <!-- Use integers only, make them unique -->
             <name>6521_1.zip</name> <!-- The name, simples -->
-            <description>FIRMWARE UPDATE - v1.2: Config and UI changes, performance tuning</description> <!-- You can use markdown here if you want -->
+            <description>FIRMWARE UPDATE - v1.3 (2020-09-11): Perfomance and UI improvements</description> <!-- You can use markdown here if you want -->
             <updated-at>2020-08-25</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>287925731</size> <!-- filesize in bytes -->
+            <size>68602766</size> <!-- filesize in bytes -->
             <download-link>
-            http://34.89.119.32/Downloads/6521_1.zip
+            http://34.89.119.32/Downloads/1.3_OTA.zip
             </download-link>
         </addon>
     </addons>
