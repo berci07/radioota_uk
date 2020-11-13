@@ -4,11 +4,21 @@
         <addon>
             <id>1</id> <!-- Use integers only, make them unique -->
             <name>6521_1.zip</name> <!-- The name, simples -->
-            <description>FIRMWARE UPDATE - v1.3 (2020-09-11): Perfomance and UI improvements</description> <!-- You can use markdown here if you want -->
-            <updated-at>2020-08-25</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>68602766</size> <!-- filesize in bytes -->
+            <description>FIRMWARE UPDATE - v1.5 (2020-11-13): FIXED VOICE NAVIGATION ISSUES</description> <!-- You can use markdown here if you want -->
+            <updated-at>2020-11-13</updated-at> <!-- Must be in yyyy-mm-dd format -->
+            <size>28436636</size> <!-- filesize in bytes -->
             <download-link>
-            http://34.89.119.32/Downloads/1.3_OTA.zip
+            http://34.89.119.32/Downloads/1.5_ota-voice.zip
+            </download-link>
+        </addon>
+        <addon>
+            <id>2</id> <!-- Use integers only, make them unique -->
+            <name>6521_1.zip</name> <!-- The name, simples -->
+            <description>FIRMWARE UPDATE - v1.5 (2020-11-13): ROOTED FIRMWARE (advanced users only, superuser level)</description> <!-- You can use markdown here if you want -->
+            <updated-at>2020-11-13</updated-at> <!-- Must be in yyyy-mm-dd format -->
+            <size>28436636</size> <!-- filesize in bytes -->
+            <download-link>
+            http://34.89.119.32/Downloads/1.5_ota-root.zip
             </download-link>
         </addon>
     </addons>
